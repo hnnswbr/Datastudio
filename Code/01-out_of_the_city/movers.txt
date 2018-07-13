@@ -1,12 +1,20 @@
 
 Who moves out of Zurich?
 
-Since 1993 the population of Zurich grew by more than 60'000 people, or 17 percent. In the last four years a lot of people focus on the people coming in to the city. This is reasonable. Since 2005 there where always more people coming in then leaving and changing the city. But then, every year are people leaving the city. Who are those? As a lot of older buildings have been replaced by new ones in the last few years and there, I thought that maybe a lot of old people have to leave the city, because they cannot pay the rent in the new building anymore.
+Since 1993 the population of Zurich grew by more than 60'000 people, or 17 percent. In the last four years a lot of people focus on the people coming in to the city. This is reasonable. Since 2005 there where always more people coming in then leaving and changing the city. But then, every year are people leaving the city. Who are those? As a lot of older buildings have been replaced by new ones in the last few years and there, I thought that maybe a lot of old people have to leave the city, because they cannot pay the rent in the new building anymore. I analyzed the cities statistics of for people who leave Zurich to another place in Switzerland. 
 
-I analyzed the cities statistics of for people who leave Zurich to another place in Switzerland. Unfortunately my hypothesis is not confirmed by the data. The Data shows, that within the last 25 years less tweens move out of the city then earlier. Why? I don't know. There are two possible answers. One: People get kids later and this is causing the shift.
-Second: The city became just more interesting for the tweens to live in. In the early 90s there was a huge drug problem in the city, and after 2000 the qualitiy of living increased a lot. But this wouldn't explain the rise of people leaving the cities in there 30s and 40s. 
+Graph 1 (Change in age)
 
-Nice to have:
- - Where do people go? Map? Table? Bar? Flow?
- - Do the old ones maybe move more often within the city?
- -  4
+Unfortunately my hypothesis is not confirmed by the data. The Data shows, that within the last 25 years less tweens move out of the city. Why? The trend is interessting enough to get a closer look.
+
+Other data help to understand this development. Looking at the population data of Zurich, one can see, that more people in there 30s and 40s live in the city than 20 years ago. One of the reason for this, is most certainly the increase quality of living in Zurich: less traffic, less crime, less drugs, more children daycare, more jobs and an urban zeitgeist. 
+
+Graph Population
+
+But for many this is not enough, once they have kids. The main reason for leaving the City is still family reasons like getting married, getting kids, getting another kid. 
+
+Graph Why do people leave Zurich
+
+This hardly changed in the last few years. But what has changed is, that people become parents later, this is probably an additional factor of why people stay way in to their thirtys in the city – and then move to a more rural place.
+
+Graph Mothers
